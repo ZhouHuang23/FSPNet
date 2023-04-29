@@ -1,6 +1,9 @@
 # Feature Shrinkage Pyramid for Camouflaged Object Detection with Transformers (CVPR2023)
 
-[Paper download](https://arxiv.org/abs/2303.14816)
+<p align="left">
+<a href="https://arxiv.org/abs/2303.14816"><img src="https://img.shields.io/badge/Paper-arXiv-green"></a>
+<a href="https://tzxiang.github.io/project/COD-FSPNet/index.html"><img src="https://img.shields.io/badge/Page-Project-blue"></a>
+</p>
 
 ## Usage
 
@@ -46,11 +49,11 @@ The prediction results of our FSPNet are stored on [Google Drive](https://drive.
 ```
 @inproceedings{Huang2023Feature,
 title={Feature Shrinkage Pyramid for Camouflaged Object Detection with Transformers},
-author={Huang, Zhou and Dai, Hang and Wang, Suo and Xiang, TianZhu and Chen, HuaiXin and Qin, Jie},
-booktitle={IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+author={Huang, Zhou and Dai, Hang and Xiang, Tian-Zhu and Wang, Shuo and Chen, Huai-Xin and Qin, Jie and Xiong, Huan},
+booktitle={IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
 year={2023}
 }
 ```
 
-Thanks to [Deng-Ping Fan](https://dengpingfan.github.io/) and [Ge-Peng Ji](https://scholar.google.com/citations?user=oaxKYKUAAAAJ&hl=en) *et al.* for a series of efforts in the field of [COD](https://github.com/visionxiang/awesome-camouflaged-object-detection#COD).
+Thanks to [Deng-Ping Fan](https://dengpingfan.github.io/), [Ge-Peng Ji](https://scholar.google.com/citations?user=oaxKYKUAAAAJ&hl=en), *et al.* for a series of efforts in the field of [COD](https://github.com/visionxiang/awesome-camouflaged-object-detection#COD).
 
