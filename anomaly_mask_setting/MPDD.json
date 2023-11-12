@@ -1,0 +1,33 @@
+{
+    "bracket_black": {
+        "use_mask"     : true,
+        "bg_threshold" : 0,
+        "bg_reverse"   : true
+    },
+    "bracket_brown": {
+        "use_mask"     : true,
+        "bg_threshold" : 1,
+        "bg_reverse"   : true
+    },
+    "bracket_white": {
+        "use_mask"     : true,
+        "bg_threshold" : 2,
+        "bg_reverse"   : true
+    },
+    "connector": {
+        "use_mask"     : true,
+        "bg_threshold" : 3,
+        "bg_reverse"   : true
+    },
+    "metal_plate": {
+        "use_mask"     : true,
+        "bg_threshold" : 4,
+        "bg_reverse"   : false
+    },
+    "tubes": {
+        "use_mask"     : true,
+        "bg_threshold" : 5,
+        "bg_reverse"   : true
+    }
+
+}
